@@ -1,4 +1,4 @@
-# Balancing 2-Wheel Robot
+# 2-Wheel Balancing Robot
 
 ## Components
 - *Arduino* Rev3 Uno
