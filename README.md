@@ -15,4 +15,4 @@
 
 ## Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_afq1DTAJZo/0.jpg)](https://www.youtube.com/watch?v=_afq1DTAJZo)
+/[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_afq1DTAJZo/0.jpg)](https://www.youtube.com/watch?v=_afq1DTAJZo)
