@@ -11,7 +11,7 @@
 
 ## Robot Construction
 
-![33945346-0dfb264c-e01f-11e7-94b3-a49d2f5e8354](https://user-images.githubusercontent.com/26459413/34083221-f7a8e6bc-e36c-11e7-9876-ca9c0970b562.jpg)
+![IMG_20200319_123443](https://user-images.githubusercontent.com/26459413/77063998-ec84be00-69de-11ea-85c4-f28c2e1496ab.jpg)
 
 
 [comment]: < ## Video>
